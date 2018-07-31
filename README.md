@@ -1,2 +1,2 @@
 # codility-php
-lesson
+lesson Iteration - Binary GAP
